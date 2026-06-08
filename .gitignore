@@ -1,2 +1,3 @@
-# 本地数据文件，不纳入版本控制
-Data/
+# 本地数据文件，不纳入版本控制（保留 .gitkeep 以在仓库中显示 Data 目录）
+Data/*
+!Data/.gitkeep
