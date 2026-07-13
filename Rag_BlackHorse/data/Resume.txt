@@ -1,0 +1,120 @@
+Lindfield NSW 2070                           Mob: 0433 213 001                        michellewang76@gmail.com
+	
+CORE COMPETENCIES AND SKILLS:
+* Over 10 years of experience in FP&A & data analysis across dynamic, data-rich environments
+* CPA-qualified with strong financial acumen and commercial insights
+* Advanced tools expertise: Snowflake (SQL), Streamlit (Python), Matplotlib, Tableau, Power BI, AX Dynamics, Copilot in Office 365, Power Automate
+* Power user of Excel, with hands-on experience in Power Query, Power Pivot, Power View, Macros, and VBA for automation and reporting efficiency
+* Extensive experience in complex financial modelling & driving data visualisation system
+* Effective communicator with experience influencing stakeholders at all levels, including C-suite
+* Strong problem-solving orientation, able to anticipate risks and deliver practical solutions
+* Committed to continuous improvement and process optimisation
+* Highly trustworthy, resilient and self-motivated. Great problem solving ability and analytical mindset. Excellent ability to work under pressure
+* Effective process management and forward thinking
+
+EMPLOYMENT HISTORY:
+Highlow Markets Pty Ltd						Nov 2019 till Oct 2025
+(Charterside Pty Ltd)							(since restructured in 2021)
+A licensed, ASIC-regulated, globally leading online trading platform specialising in binary options and CFDs, offering tradable instruments including FX, commodities, indices, and cryptocurrencies. The platform serves a diverse international client base through both direct retail trading and white-label partnerships, operating in a fast-paced, high-volume fintech environment.
+
+Position: FP&A Team Lead				(Report to the CFO & Managing Director)
+Position: Finance Data Analyst | Business Parter
+A hybrid role combining FP&A, finance data analyst and business partner. Partnering with executive leadership, marketing, risk, product and customer service teams to deliver actionable insights, optimise performance, enhance risk visibility, and deliver insights through scalable data solutions.
+
+* Extracted and manipulated large datasets from the trading platform, the CRM system, the accounting system, payment gateways, and web analytics tools using SQL, Python, and Excel.
+* Built interactive internal tools using SQL/Streamlit for the Finance, Product, Marketing, and Risk teams to access self-service analytics to support their decision-making with real-time metrics and visualisations.
+* Designed and maintained real-time dashboards tracking key business metrics: trading volume, revenue, margins, active users, conversion rates, etc.
+* Built and maintained forecasting models that project trading volume, revenues (multiple currencies), client number, VIP performance etc. at asset-level (e.g., EUR/USD, Gold, NAS100).
+* Identified opportunities to enhance trading revenue and reduce operational costs through data-driven analysis, e.g. trader support turnaround time, trading-preference, affiliate payouts, server infrastructure etc.
+* Conducted thorough data analysis and restructured affiliated payment system to optimise CPA (cost per acquisition). 
+* Conducted ROI evaluations on marketing and affiliates campaigns.
+* Partnered with Product and Tech teams to assess platform investment needs, payment gateway diversification and track development ROI.
+* Led automation initiatives and trained finance team for reporting processes, improved month-end reporting pack closing time and accuracy.
+* Worked closely with the Product Team to evaluate the financial viability of new asset listings or payout adjustments.
+* Partnered with the Marketing Team to evaluate the ROI of acquisition campaigns and optimise bonus and incentive structures based on client LTV.
+* Users Behavior & Funnel Analytics, mapping the full customer journey from acquisition to first deposit, trading, and reactivation, identifying key drop-off points and friction areas
+* Conducted cohort analysis on trader behavior (e.g., age/gender/region, deposit frequency, churn rate, average trade size), identifying key drivers of profitability and retention.
+* Built predictive models (e.g., trade success likelihood, user lifetime value) to support targeted marketing and retention strategies.
+* Designed A/B testing frameworks for campaigns optimisation and platform UX changes; analysed results and provided statistical reporting.
+* Delivered insights on customer behavior and trading sentiment shifts in response to geopolitical or economic events (e.g. crypto market, central bank announcements).
+* Analysis on trading patterns across time zones, asset classes, and volatility windows to inform product design and support shift planning.
+* Created alerts and anomaly detection reports for unexpected shifts in trading patterns, payout spikes, or volume drops across assets or user segments.
+> Translated business questions into technical queries. Delivered clear, actionable insights to both technical and non-technical stakeholders.
+> Contributed to the data governance framework, including data naming conventions, documentation, and training on analytics tools.
+> Standardised KPIs across business sectors to improve data alignment and to ensure consistent performance evaluation.
+> Standardised and automated financial analysis reporting templates and scenario planning models, improving turnaround time and accuracy by 40%.
+> Upgraded financial planning tools and implemented best practices for data integrity and version control.
+
+Aoliday Pty Ltd	(iTrip.com)						Oct 2017 – Nov 2019
+An online traveling B2B and B2C e-Commerce platform. Aoliday group had subsidiaries in Hongkong, Germany and New Zealand. 
+Position: Senior FP & A		(Report to the Finance Director)
+* In-depth financial & data analysis of large volume of information, delivered and presented monthly margin reports to senior management
+* Prepared monthly cash flow forecast
+* Prepared annual budget by using driver-based budget procedure; maintained & updated Revenue, Cost, Salary & Wages, Operation Expenses budget models.
+* Quarterly evaluated annual budget report by monitoring performance KPI & financial condition KPI, actual – budget – forecast
+* Supported sales team with sales analysis by customer groups, sales channels, product categories, etc.
+* Seasonal marketing event analysis report: Sales conversion rate & business impact of marketing performance
+* Built ad-hoc project profitability analysis report, participated in marketing trend analysis, reviewed new business pipelines, risks & opportunities analysis
+* Prepared monthly product trend analysis report, by sales volume and quantity of orders, to facilitate decision making on seasonal promotion
+* Prepared and presented monthly financial analysis pack for individual (4) subsidiaries and consolidated group, providing insightful analytical comments by cost centers & travelling products locations
+* Contributed to the development of the company's BI systems
+* Periodically participated and contributed to strategic review and business planning
+> Automated P&L consolidation report, and integrated to relevant operation analysis & business planning in both short term and long term
+> Built dynamic reporting models in Excel to automatically show the variance, trend and expense ranking of P&L figures at click of button. Create interactive reports visulisation. Reduced report error. Saved time by streamlining the report running process
+> Improved the driver-based budget modelling. Enabled instant grasp of business performance and easier drilling down to the factors which made difference
+> Introduced Power BI to create KPI report. Automated data analysis in real time. Enabled quick decision-making on service diversification and business expansion
+> Comprehensively involved and contributed to the IPO progress
+
+VoicePlus Pty Ltd							Nov 2016 – Oct 2017
+A Managed Mobility service (MMS) provider. They provide mobility solutions for business and specialise in Telecommunications and IT integration.
+Position: Finance Manager - Contractor 	(Report to the Managing Director)
+* Led the finance team, monitored finance operations
+* Monitored weekly cash flow statement & forecast
+* Prepared monthly sales analysis report: Dependency on the top customers, Sales force contribution, and Sales cost analysis
+* HR analysis report – FTE by department over the years, social funds and benefits analysis, headcount movements
+* Managed month-end closing process and presented reporting package to the leadership
+* Maintained annual budgeting and 3 year forecasting. 
+Quarterly review and analyse variances between actual vs last year vs budget.
+* Statutory & Government Returns, including
+BAS returns, PAYG tax returns, Payroll tax, Workers compensations & FBT returns
+* Liaised with key stakeholders including major suppliers, bankers, insurance brokers and legal consultants
+> Set up a model using Power Query to consolidate sales data from various resources. Saved 80% of time of preparing sales analysis report.
+> Effective communication with ATO and resolved outstanding tax liabilities by scheduling payment arrangements, stopped further legal action.
+> Succeed in reaching the team’s targets by capitalising on the expertise of each of the members; maintained open and transparent communication within the team.
+
+Medicins Legale Pty Ltd							Jul 2013 – Oct 2016
+A specialist medical legal service provides medical examination and reports. 
+Position: Company Accountant		(Report to the CEO)
+> Improved documentation of internal accounting procedures. Ensured internal compliance, and no disruptions from staff movement.
+> Created a set of models to streamline month end procedures. Enabled automatic calculations for Sales Commission, Accrued Expenses, Prepayment Amortisation & GL reconciliation. Reduced the days of month-end process from 10 days to 3 days.
+
+The Eftel Limited – (acquired by M2 Group)				Dec 2010 – Jun 2013	
+An internet/telephony service provider and a provider of a complete range of telecom infrastructure for the Corporate, Wholesale, Government and Residential sectors. 
+Position: Senior Financial Accountant		(Report to the Financial Controller)		
+> Created a model to automatically process depreciation and streamlined the procedure for fixed asset process. 
+
+Australian Fitness Network                                              			                                       
+A member-based organisation to provide information, education and national wide events in fitness industry.
+Position: Assistant Accountant						Jan 2008 – Feb 2009
+Position: Financial Accountant	(promoted)				Mar 2009 – Nov 2010
+> Changed accounting system from Accpac Sage, which required lot of IT support, to low-IT-maintenance MYOB. 
+
+W K KWAN & Co. Accounting Services 
+An end-to-end accounting solution service provider for individuals, and small to medium businesses. 
+Position: Trainee Accountant						Jul 2006 – Oct 2006
+Position: Business Service Accountant					Oct 2006 – Dec 2007
+
+EDUCATION:
+Bachelor of Economics	     University of Electronic Science and Technology of China	2001 –2005
+Master of Accounting	     University of New South Wales			              2006 – 2007
+Certified CPA Australia
+
+REFEREES:
+Professional References Available Upon Request.
+MICHELLE WANG, BEC. M.ACC, CPA
+
+
+2|4
+
+
+

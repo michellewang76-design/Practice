@@ -1,0 +1,29 @@
+[
+  {
+    "school": "Meriden",
+    "tuition_fee": "Pre-Kindergarten 5-day program $29,120/annum ($7,280/term); 4-day program $24,040/annum ($6,010/term); Kindergarten $25,780/annum ($6,445/term); Year 1 $25,780/annum ($6,445/term); Year 2 $25,780/annum ($6,445/term); Year 3 $31,000/annum ($7,750/term); Year 4 $31,000/annum ($7,750/term); Year 5 $32,320/annum ($8,080/term); Year 6 $32,320/annum ($8,080/term); Year 7 $39,060/annum ($9,765/term); Year 8 $41,140/annum ($10,285/term); Year 9 $41,340/annum ($10,335/term); Year 10 $41,340/annum ($10,335/term); Year 11 $42,960/annum ($10,740/term); Year 12 $42,960/annum ($14,320/term, 3 terms only) (domestic)",
+    "camp_fee": null,
+    "resources_fee": "Pre-Kindergarten $125/annum; Kindergarten $790/annum; Year 1 $770/annum; Year 2 $765/annum; Year 3 $1,435/annum; Year 4 $1,055/annum; Year 5 $1,590/annum; Year 6 $1,805/annum; Year 7 $1,830/annum; Year 8 $2,065/annum; Year 9 $2,015/annum; Year 10 $1,975/annum; Year 11 $1,200/annum; Year 12 $1,215/annum (Resources Fee includes annual Camp program if applicable, except interstate/overseas trips)",
+    "activity_fee": null,
+    "technology_fee": null,
+    "other_co_curricular_fees": null
+  },
+  {
+    "school": "Shore",
+    "tuition_fee": "ELC 2 days $19,860/annum; ELC 3 days $29,600/annum; ELC 5 days $49,300/annum; Kindergarten $31,030/annum; Year 1 $31,870/annum; Year 2 $31,870/annum; Year 3 $38,930/annum; Year 4 $38,930/annum; Year 5 $39,780/annum; Year 6 $39,780/annum; Year 7 $45,300/annum; Year 8 $45,300/annum; Year 9 $46,570/annum; Year 10 $46,570/annum; Year 11 $48,050/annum; Year 12 $48,100/annum",
+    "camp_fee": "Year 3 Start of Year Camp $670; Year 4 Start of Year Camp $725; Year 5 Mid-Year Camp $670; Year 6 Start of Year Camp $740; Year 6 September Camp $650; Year 7 Orientation Camp $680; Year 7 End of Year Camp $920; Year 8 End of Year Camp $1,130; Year 9 Cadet Bivouac $650; Year 9 Cadet AFX $650; Year 10 End of Year Camp $815 OR Year 10 Cadet Bivouac $650 OR Year 10 Cadet AFX $650; Year 11 Step-Up $855 AND Year 11 Service Week $210 OR Year 11 Step-Up $855 AND Year 11 Cadet Bivouac $650 AND Year 11 Cadet AFX $650; Annual Compulsory Camp Fee (fee schedule): Year 3 $670; Year 4 $725; Year 5 $670; Year 6 $1,390; Year 7 $1,600; Year 8 $1,130; Year 9 $1,300; Year 10 $815 or $1,300; Year 11 $1,065 or $2,155",
+    "resources_fee": "Kindergarten-Year 6 $715/annum; Year 7-12 $495/annum",
+    "activity_fee": null,
+    "technology_fee": "Kindergarten-Year 2 $390/annum; Year 3-6 $490/annum; Year 7-12 $1,020/annum",
+    "other_co_curricular_fees": null
+  },
+  {
+    "school": "Sceggs",
+    "tuition_fee": "Kindergarten-Year 2 $33,056/annum ($8,264 per billing); Years 3-6 $38,920/annum ($9,730 per billing); Years 7-8 $48,152/annum ($12,038 per billing); Years 9-10 $48,648/annum ($12,162 per billing); Years 11-12 $51,856/annum ($12,964 per billing)",
+    "camp_fee": null,
+    "resources_fee": null,
+    "activity_fee": null,
+    "technology_fee": "$950/annum (2026 technology levy)",
+    "other_co_curricular_fees": null
+  }
+]

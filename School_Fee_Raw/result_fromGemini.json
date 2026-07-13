@@ -1,0 +1,53 @@
+[
+    {
+      "school": "Meriden",
+      "tuition_fee": {
+        "local_international_note": "International tuition applies specifically as listed below.",
+        "local_junior_school": "$24,040 - $32,320 per annum",
+        "local_senior_school": "$39,060 - $42,960 per annum",
+        "international_junior_school": "$38,030 - $44,790 per annum",
+        "international_senior_school": "$51,300 - $55,260 per annum"
+      },
+      "camp_fee": "Included in Resources Fee (except for interstate/overseas trips)",
+      "resources_fee": "$125 - $1,805 per annum",
+      "activity_fee": "null",
+      "ict_fee_or_technology_fee": "null",
+      "other_co_curricular_or_extra_curricular_fees": "Music Camp, Duke of Edinburgh's Award, Cadets, sports registration, additional HSC charges, school bus, music instrument repair/hiring and Exchange Programs are charged separately."
+    },
+    {
+      "school": "Shore",
+      "tuition_fee": {
+        "local_international_note": "Overseas students travel on non-Australian passports have a 20% surcharge on domestic tuition fees.",
+        "local_elc": "$19,860 - $49,300 per annum",
+        "local_preparatory_school": "$31,030 - $39,780 per annum",
+        "local_senior_school": "$45,300 - $48,100 per annum"
+      },
+      "camp_fee": "$670 - $2,155 per annum (Compulsory Camps vary by Year Level)",
+      "resources_fee": "$495 - $715 per annum (Annual Resource Levy)",
+      "activity_fee": "null",
+      "ict_fee_or_technology_fee": "$390 - $1,020 per annum (Annual Technology Levy)",
+      "other_co_curricular_or_extra_curricular_fees": {
+        "boarding_fees_full_time": "$35,360 per annum",
+        "boarding_fees_weekly": "$34,420 - $35,040 per annum",
+        "optional_camps": "Charged separately",
+        "extra_subjects_and_excursions": "Determined by School Council"
+      }
+    },
+    {
+      "school": "SCEGGS",
+      "tuition_fee": {
+        "local_international_note": "No separate international schedule listed in text.",
+        "kindergarten_to_year_2": "$33,056 per annum",
+        "years_3_6": "$38,920 per annum",
+        "years_7_8": "$48,152 per annum",
+        "years_9_10": "$48,648 per annum",
+        "years_11_12": "$51,856 per annum"
+      },
+      "camp_fee": "Charged separately (listed under Sundry Charges)",
+      "resources_fee": "null",
+      "activity_fee": "Primary Excursion Levy (charged separately in November, amount not specified)",
+      "ict_fee_or_technology_fee": "$950 (In 2026 a technology levy of $950 will be charged)",
+      "other_co_curricular_or_extra_curricular_fees": "School excursions (Senior School only), Co-curricular activities such as sport, Extra subjects such as individual tuition for a musical instrument, and speech lessons are charged separately under Sundry Charges."
+    }
+  ]
+  
