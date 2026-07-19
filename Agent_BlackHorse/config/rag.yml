@@ -1,0 +1,17 @@
+chat_model_name: llama-3.3-70b-versatile
+embedding_model_name: models/gemini-embedding-001
+
+
+# # 写 Python 代码的时候
+# from langchain_google_genai import GoogleGenerativeAIEmbeddings
+# from langchain_groq import ChatGroq
+# import yaml # 假设用 yaml 库读取
+
+# # 1. 先去读取 rag.yml 里面的模型名字
+# # (这里只是伪代码演示逻辑，你们项目里应该有现成的配置读取工具)
+# with open('config/rag.yml', 'r') as f:
+#     config = yaml.safe_load(f)
+
+# # 2. 根据读到的名字去创建模型实体
+# embed = GoogleGenerativeAIEmbeddings(model=config['embedding_model_name'])
+# model = ChatGroq(model=config['chat_model_name'])

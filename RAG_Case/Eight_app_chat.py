@@ -7,13 +7,13 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_groq import ChatGroq
 
 # 标题
-st.title("智能客服")
+st.title("Smart Cookie")
 # 分隔符
 st.divider()
 
 # 避免性能压力，session_state 存入对象
 if "message" not in st.session_state:
-    st.session_state["message"]=[{"role":"assistant","content":"你好，有什么可以帮助你？"}]
+    st.session_state["message"]=[{"role":"assistant","content":"How are you? How can I help you?"}]
 
 if "rag" not in st.session_state:
     st.session_state["rag"]= RagService()
@@ -29,7 +29,7 @@ if prompt :
     st.session_state["message"].append({"role":"user","content":prompt})
 
     ai_res_list= []
-    with st.spinner("AI 思考中......."):
+    with st.spinner("Thinking......"):
         # 调用 RAG服务
 
         # 直接输出

@@ -23,7 +23,7 @@ class VectorStoreService(object):
             return self.vector_store.as_retriever(search_kwargs={"k": config.similarity_threshold})
 
 if __name__ =='__main__':
-        from langchain_community.embeddings import DashScopeEmbeddings
+        
         retriever= VectorStoreService(config.embed).get_retriever()
 
         res= retriever.invoke("我的身高180,尺码推荐")
