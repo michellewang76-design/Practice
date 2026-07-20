@@ -1,0 +1,9 @@
+langchain_chroma==1.1.0
+langchain_community==0.4.2
+langchain_text_splitters==1.1.2
+pandas==3.0.3
+plotly==6.9.0
+protobuf==7.35.1
+python-dotenv==1.2.2
+python_docx==1.2.0
+streamlit==1.59.0

@@ -23,7 +23,7 @@ if uploaded_file is not None:
             else:
                 df = pd.read_excel(uploaded_file)
             
-        st.success("✅ Upload successful!")
+        st.success("✅ Upload successfully!")
         
         # 3. 验证必需的列名
         if 'Year' not in df.columns or 'Month' not in df.columns:
@@ -50,7 +50,7 @@ if uploaded_file is not None:
                 
                 for i, ((year, month), group_data) in enumerate(grouped):
                     # 构造每个小文件的文件名
-                    filename = f"{int(year)}年{int(month):02d}月.csv"
+                    filename = f"{int(year)}_{int(month):02d}.csv"
                     
                     # 将 dataframe 转换为 csv 格式的文本字符串
                     csv_data = group_data.to_csv(index=False, encoding='utf-8-sig')
