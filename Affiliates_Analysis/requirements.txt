@@ -9,3 +9,4 @@ python-docx
 streamlit
 google-generativeai
 sentence-transformers
+tabulate
