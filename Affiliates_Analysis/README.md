@@ -48,6 +48,8 @@ Affiliates_Analysis/
 │
 ├── .env                    # (Ignored in Git) Stores sensitive API keys
 └── requirements.txt        # Project dependencies (Streamlit, Pandas, etc.)
+│
+├── docs/                   # save PRD, retro & mindmap
 
 🚀 Installation & Setup Guide
 Step 1: Prepare the Environment
