@@ -1,3 +1,5 @@
+chromadb
+google-generativeai>=0.5.2
 langchain-chroma
 langchain-community
 langchain-text-splitters
@@ -6,7 +8,6 @@ plotly
 protobuf
 python-dotenv
 python-docx
-streamlit
-google-generativeai
 sentence-transformers
+streamlit
 tabulate

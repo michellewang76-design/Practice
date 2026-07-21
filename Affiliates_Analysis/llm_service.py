@@ -59,3 +59,25 @@ Based on the "Current Dashboard Data" and the "Historical Context" provided abov
             return response.text
         except Exception as e:
             return f"❌ Error generating AI insights: {e}"
+
+
+    def generate_rag_response(self, prompt, context_text):
+        """
+        专门用于处理右侧边栏的自然语言查询 (RAG Chat)
+        """
+        # 构建给 AI 的系统提示词 (Prompt Engineering)
+        sys_prompt = f"""
+        You are a professional Affiliate Business Analysis Assistant. Please answer the user's questions strictly based on the reference materials (Context) provided below. 
+        If the reference materials do not contain the relevant information, please directly reply: "No relevant information found in the knowledge base. Please check if the related files have been uploaded." Absolutely do not fabricate or hallucinate any data.
+
+        [Historical Context]:
+        {context_text}
+        """
+
+        try:
+            # 直接使用你在 __init__ 中初始化好的 Gemini 模型发送请求
+            # 传入系统设定和用户的具体问题
+            response = self.model.generate_content([sys_prompt, prompt])
+            return response.text
+        except Exception as e:
+            return f"❌ Error: {e}"

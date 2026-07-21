@@ -1,0 +1,13 @@
+# 忽略本地上传的 CSV 数据文件夹
+uploaded_monthly_data/
+
+# 忽略本地的 Chroma 向量数据库
+chroma_db/
+
+# 忽略 Python 的缓存文件
+__pycache__/
+*.pyc
+
+# 忽略虚拟环境和环境变量 (包含 API Key 等机密信息)
+.venv/
+.env
