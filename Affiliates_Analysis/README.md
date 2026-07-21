@@ -1,6 +1,6 @@
 # 📈 Affiliate Payout & Performance Dashboard
 
-👉 [**Click here to view the project mindmap online**](https://raw.githack.com/michellewang76-design/Practice/main/Affiliates_Analysis/mindmap.html)
+👉 [**Click here to view the project mindmap online**](https://raw.githack.com/michellewang76-design/Practice/main/Affiliates_Analysis/docs/mindmap.html)
 
 ## 📖 Project Overview
 The **Affiliate Payout & Performance Dashboard** is a robust, automated web application built with Streamlit. It is designed to streamline the ingestion, merging, and visualization of monthly affiliate payout records.
