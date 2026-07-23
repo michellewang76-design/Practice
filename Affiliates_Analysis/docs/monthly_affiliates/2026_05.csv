@@ -1,0 +1,34 @@
+﻿Year,Month,Affiliate_ID,Ftt_Num,Approved_Num,Total_Fee,Approved_Fee,Criteria,Level,Organic,Status,Bank
+2026,5,57ee390158513,10,10,300000,300000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,5,5a7d1324a2ef6,4,4,120000,120000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,63460abb64335,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,5,67a17bfe9057a,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,5,61a6cf4d0e12a,4,3,120000,90000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,61fdd60c0ae3b,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,5,5cbe94eb71c7e,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,636cabb16e561,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,5c7e47312445e,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,5,669bd55ca3820,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,5,5f7de1b9effc8,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,6.67571E+12,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,5,650d293d0172c,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,5,6661849a23e18,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,5,66b320e831953,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,582183503f991,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,5,641436b416365,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,5,5f5443b9017c0,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,5,65e9e7f73e030,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,63c22e1c84f86,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,5,676848e6146dd,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,5,6017a8d3b8d70,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,629c13b817fb2,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,67d38ec65f587,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,5,604a0ce16acad,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,6295a4b6ee1ff,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,58965c42eb74a,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,601cd08d5731b,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Rejected,CBA
+2026,5,60a8448e2c4d7,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,5,67383db083b58,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,5,5fffbbeadaf09,34,0,0,0,,,Organic,,
+2026,5,66de78fe32b24,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Rejected,CBA
+2026,5,67d38e7e0c936,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA

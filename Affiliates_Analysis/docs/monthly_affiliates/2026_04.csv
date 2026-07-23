@@ -1,0 +1,260 @@
+﻿Year,Month,Affiliate_ID,Ftt_Num,Approved_Num,Total_Fee,Approved_Fee,Criteria,Level,Organic,Status,Bank
+2026,4,57ee390158513,308,304,11770000,11610000,VIPIIAffiliate,FTT > 100 Counts,,Paid,CBA
+2026,4,67a17bfe9057a,274,273,10410000,10370000,VIPIIAffiliate,FTT > 100 Counts,,Paid,ANZ
+2026,4,5d74a21062504,182,181,6730000,6690000,VIPIIAffiliate,FTT > 100 Counts,,Paid,NAB
+2026,4,6059360b0473d,87,86,2995000,2960000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,NAB
+2026,4,5a7d1324a2ef6,71,70,2435000,2400000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,NAB
+2026,4,61696a35c75ab,69,69,2365000,2365000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,ANZ
+2026,4,61fdd60c0ae3b,50,50,1700000,1700000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,4,64bd37cb4efea,36,36,1210000,1210000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,NAB
+2026,4,61a6cf4d0e12a,33,33,1105000,1105000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,4,63460abb64335,24,23,790000,755000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,ANZ
+2026,4,582183503f991,23,21,755000,685000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,NAB
+2026,4,65e9e7f73e030,18,18,580000,580000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,ANZ
+2026,4,66f6b93766e8d,17,17,545000,545000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,4,60b661737ff16,15,15,475000,475000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,4,66c2e7c3bd856,15,15,475000,475000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,NAB
+2026,4,631081c0a6e99,14,14,440000,440000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,4,5c74c86a866dd,14,14,440000,440000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,4,612f45e5d2104,13,13,405000,405000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,NAB
+2026,4,5ff6621531ce5,12,12,370000,370000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,NAB
+2026,4,60f9658b6ddf4,10,10,300000,300000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,4,6678fa9410bdf,8,8,240000,240000,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,5fe6a8a0da9d5,9,8,270000,240000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,61c965e14284f,8,8,240000,240000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,589c20a290af4,7,7,210000,210000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,5f5443b9017c0,7,7,210000,210000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5d9310927c8a4,7,7,210000,210000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,66de78fe32b24,7,7,210000,210000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,60c96bdde47a4,7,7,210000,210000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,611e2064b419e,6,6,180000,180000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,60012ae0e095a,5,5,150000,150000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5cbe94eb71c7e,5,5,150000,150000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,5da53ea8eb4d3,5,5,150000,150000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,64883f900cba9,6,5,180000,150000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5424f1b1888a2,5,5,150000,150000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,5f7de1b9effc8,5,5,150000,150000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,641436b416365,5,5,150000,150000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,601ca493db423,8,5,240000,150000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,65c1e118f0820,15,5,475000,150000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,ANZ
+2026,4,5b289c937a789,4,4,120000,120000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,5da349b6a94a9,4,4,120000,120000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,65a84eaa65389,4,4,120000,120000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,63612bb036c81,4,4,120000,120000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5742884d315d1,4,4,120000,120000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,652faf4ced190,4,4,120000,120000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5d83fd2ec7e50,4,4,120000,120000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6017a8d3b8d70,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,661fa6973a3e1,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5c5a3884b7a0b,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Rejected,CBA
+2026,4,6344ea801ded3,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,62a85e0d8de34,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5eb3ba4f22e1b,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,667248fbe82a2,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,65e04d737099f,12,3,370000,90000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,CBA
+2026,4,6077932aa889e,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Rejected,ANZ
+2026,4,633effa9992bd,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,60ecfc3bd9cca,9,3,270000,90000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,5cb9343217399,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5fe3099e08412,3,3,90000,90000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,58dfb884c5f1a,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,63465ebdae3ce,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,64d7137ab105e,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,5dc10cf6e733a,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5f36329ab76d1,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,65dff8be028cd,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,533ffb6139522,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5dfcc1719ac8b,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,66b320e831953,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,548c3aced2427,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,61bade279ea78,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Pending,CBA
+2026,4,66e7c6f6b16aa,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,5430025bbe104,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,618b78d622a53,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,5982dcba85285,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,61a43aa61132f,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,60c1a05ad9d7f,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,6356c0f7ee131,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5c944047aeac6,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,616a640c7a77d,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Rejected,CBA
+2026,4,652d398f75d2a,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,61e118f333523,34,2,1140000,60000,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,ANZ
+2026,4,62c40793870c4,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,648983c4e542d,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,605261831dcd0,2,2,60000,60000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,61e118a81682a,2,1,60000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,646ddc3d4f4fd,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,665f2017760b6,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5ee9b72fe5878,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6661849a23e18,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,62dfe5e4a3673,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,6179f2d255a61,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,60271aa002ece,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,6358e9faada73,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,55c434d3577b9,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,605fce2553d9f,3,1,90000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5d3fff09ee79d,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,653352c13a88b,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Rejected,CBA
+2026,4,5ffec665a4ac8,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,6787795fc381a,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,5b1a570ae8e40,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5a964cab7635c,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,613a881782f89,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,5b9771f5c14e2,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,6058061853a4c,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,5ffc5994a09d4,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6066f25e0b365,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,656ec14e59206,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,6671707e0d107,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Rejected,CBA
+2026,4,53f8bb35da7fa,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,62b09d491f8ac,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,61e67c6f7dda4,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5f02f32b34b9d,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,65a0db5e019ba,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5e703731c8875,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6041dd70311fe,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,679543597987f,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,673431a95b0e3,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,52f4368889cfc,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,5334dcc3d215c,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,63814dde155ad,2,1,60000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,60d04ae4092e8,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Pending,CBA
+2026,4,63ffa27a92fab,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,6164f6420863a,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5e071c57007ee,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5aeeb04e6bbf7,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,591ec5c4c046e,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,66e298e6ce42b,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6630bca8ed7d9,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,55828e847e269,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,607e8a93ea9a1,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,580581f5bfca0,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,64074224278a2,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,60f12c760f17e,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,6384e60e6c1ba,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,58b65e816c302,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,64427695995b1,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,65239ac355329,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,629c13b817fb2,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,629d00f64d528,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6031a72f01215,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,58f41843d0b5c,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,635c51fceedf8,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,605ad46f46271,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,6489820f535b9,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6236e461c765a,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5bac1e8564cab,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5fdae0d07ee4e,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,623585a316847,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,63509e7b842b8,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6607c31671ed6,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,5fe065d184777,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,61e8ee608839c,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,669bd55ca3820,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Rejected,CBA
+2026,4,63c15dda080da,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6.67571E+12,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,662d38094125b,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,58904d0598366,1,1,30000,30000,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5b0940028d029,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,60a32ea076dd7,3,0,90000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,58965c42eb74a,4,0,120000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,674ebe4444643,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,679650cce04ca,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,61d5bd76140c5,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,649e202f4e4d0,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,60e3ea82137f3,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,67e0e2c79712b,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,63c9552e93561,3,0,90000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,64e25fdf7451c,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,CBA
+2026,4,67fa31e6dae21,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,634127b40943f,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,67ca72427bfef,4,0,120000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,57c002511a1b7,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,65fe793d7b3e8,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5fffbbeadaf09,883,0,0,0,,,Organic,,
+2026,4,61f75e660e2d7,3,0,90000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,67ef37725b810,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,64349148e0686,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,653dca4ee0f7b,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,61ed75854bc88,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,67a4057c733a4,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,67d85401d6ce7,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,67383db083b58,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,65868ecd23e22,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Unpaid_Bounce_Bank,NAB
+2026,4,672b2ffc440c0,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,65f46f8fc1ce9,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6808cf0bea75f,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6752df8dac538,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,678095be3bec4,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,672f9da0b34a5,11,0,335000,0,VIPIAffiliate,10 Counts < FTT <= 100 Counts,,Paid,NAB
+2026,4,67d38ec65f587,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,679ddb6cb5410,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Rejected,ANZ
+2026,4,67c688cfe0b58,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,67320dcad5df3,3,0,90000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,639bd4c817f82,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,62ca83b5aca11,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6538800d7e7a9,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,67c42f9cc1926,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,6442fbbddcf7b,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,64114f45dc2a7,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,67fc7134e8426,4,0,120000,0,NormalAffiliate,FTT >0 Counts,,Pending,CBA
+2026,4,5d0dddb28ba03,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,66cf168dc8d8e,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,63c120697b567,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6729e56f1a149,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,678323730e7bb,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,67c5935027e82,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,64ba4a751fa21,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,63060d94ba27b,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,5f256bcc59100,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,67625b4baf7e0,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,67557251288cc,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,67ae706451672,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,64c5cad09ac66,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,651aab650c0a4,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Rejected,ANZ
+2026,4,63e1fc425383f,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,6478be06decb4,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,67c3d6e1208c3,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Rejected,CBA
+2026,4,6685cada3205f,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,67d7f07f4182b,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,65d85cd1e67e0,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6807008f5cc32,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,62692cce60c50,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Rejected,NAB
+2026,4,630f2642a08a0,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,67ae702ad1150,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,675e99038cbf0,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,67a4993462c2e,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,68022865b7dea,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,61fa574e4f558,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,67b0e5c32c2aa,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6675217a38d19,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,667c2238df3f8,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,62f33db161dbc,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,6150273c01916,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,660ccae161ecb,3,0,90000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,66da3eb39bd1a,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Unpaid,NAB
+2026,4,639ae3ad11811,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,67e551cba6f0d,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Unpaid_Bounce_Bank,CBA
+2026,4,60b9af2f5e27b,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,67aedc5229197,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,67e7d4622c98d,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,67da25ba81b15,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,65b1138788f57,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,67b415d9aef08,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,67f88871c41c0,4,0,120000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,67f75283447b8,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,678f194261d65,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,67c0f39e0e17b,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,68038f5fc5c59,5,0,150000,0,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,67dc0d0480072,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,CBA
+2026,4,6664f69d69044,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,ANZ
+2026,4,601cd08d5731b,4,0,120000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6804eee01e3b8,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,NAB
+2026,4,67ff5ad4e1cee,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,CBA
+2026,4,639b9da44eb12,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,67fa24a269b7b,2,0,60000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,67ade946b310b,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,6013b9b05bfd8,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
+2026,4,589e05122ba6a,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,CBA
+2026,4,625773ddf3cb4,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Pending,ANZ
+2026,4,67c01d67398e0,1,0,30000,0,NormalAffiliate,FTT >0 Counts,,Paid,NAB
