@@ -4,6 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from datetime import datetime
+import os
 
 # ==========================================
 # 1. 页面基本设置
@@ -35,7 +36,7 @@ span[data-baseweb="tag"] { background-color: #808080 !important; }
 # ==========================================
 @st.cache_data
 def load_data():
-    
+
     current_dir = os.path.dirname(os.path.abspath(__file__))
     parent_dir = os.path.dirname(current_dir)
     csv_path = os.path.join(parent_dir, 'data', 'deposit.csv')

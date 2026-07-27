@@ -32,9 +32,8 @@ Updates here will serve as the foundation for the Smart Routing Engine and Liqui
 # 调用异常警报组件
 show_anomaly_alerts()
 
-# 全局密码控制器 (放在最上面，让下面所有组件共用)
-st.markdown("### 🔐 Admin Authentication")
-admin_password = st.text_input("Enter Admin Password to Unlock Editing Features", type="password")
+# 提取全局密码状态 (输入框已移至下方，这里仅获取状态以防止上方组件报错)
+admin_password = st.session_state.get("admin_pw", "")
 
 # 注入 CSS，将所有多选框的选中标签背景色强制改为灰色
 st.markdown("""
@@ -257,6 +256,8 @@ if selected_release:
 # 使用 st.expander 制作可纵向展开/收起的面板 (expanded=True 表示默认打开)
 with st.expander("📊 PSP Cost & Risk Data Table (Click to Expand/Collapse)", expanded=True):
     
+    # 密码输入框位置：使用 key 绑定到全局状态，这样即使在下方输入，上方的看板也能解锁
+    admin_password = st.text_input("🔐 Enter Admin Password to Unlock Editing Features", type="password", key="admin_pw")
 
     if admin_password == "admin123":
         st.success("✅ Admin Access Granted. You can now edit, add, or delete PSPs.")

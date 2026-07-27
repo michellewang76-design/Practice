@@ -2,3 +2,4 @@ PSP Name,Severity,Issue,Impact,Action
 FsTechnologies,Critical,PSP filed for bankruptcy / operations ceased.,$150k settlement funds currently frozen.,Smart routing disabled. Legal team engaged.
 Eximbay,High,CB ratio breached 2.5% threshold.,PSP threatening to increase rolling reserve from 10% to 15%.,Risk team analyzing CB reasons. Negotiating.
 PaymentZ,Medium,Weekly settlement delayed by 4 business days.,Cash flow disruption.,Finance team following up daily. Routing paused.
+SimpleTransact,Info,Withheld rolling reserve calculation confirmation,Cash flow forecast,Video conference on Monday
