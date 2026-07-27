@@ -1,0 +1,17 @@
+PSP Name,Processing Rate (%),Fixed Trx Fee ($),Chargeback Fee ($),Refund Fee ($),FX Surcharge (%),Monthly Fee ($),Settlement Fee,Reserve Type,Reserve Amount / Rate,Release Terms
+Acquiringcom,1.35,0.25,15.0,0.5,1.0,25,Free,Rolling,5% (6 months),180 days
+Alweave,1.9,0.1,22.0,0.5,1.7,0,Free,Fixed,"$50,000",90 days
+CheckoutCom,1.4,0.2,18.0,0.5,1.2,0,Free,,,
+Eximbay,2.2,0.0,30.0,1.0,2.5,0,0.50%,Rolling,10% (3 months),180 days
+FsTechnologies,1.2,0.2,15.0,0.5,1.0,0,Free,,,
+Gmo,2.0,0.1,20.0,0.4,1.8,30,Free,Rolling,5% (3 months),90 days
+Intraclear,1.25,0.3,25.0,0.5,1.5,0,0.20%,Fixed,"$100,000",180 days
+LateralPay,1.6,0.15,20.0,0.0,1.2,0,Free,Rolling,8% (6 months),180 days
+PaymentZ,1.5,0.15,20.0,0.0,1.5,50,0.10%,Rolling,10% (6 months),180 days
+Paystra,1.45,0.2,15.0,0.5,1.0,0,Free,,,
+Powercash21,1.7,0.15,18.0,0.2,1.5,40,Free,Rolling,5% (6 months),180 days
+SafeCharge,1.1,0.25,15.0,0.3,0.5,100,Free,Fixed,"$200,000",180 days
+SafeCharge2,1.05,0.2,15.0,0.3,0.5,150,Free,Fixed,"$150,000",180 days
+SBM,2.1,0.1,25.0,0.5,2.0,0,0.30%,Rolling,10% (6 months),180 days
+SimpleTransact,1.15,0.25,10.0,0.25,0.8,99,Free,None,N/A,N/A
+Worldpay,1.8,0.1,25.0,0.2,2.0,0,$10 per payout,Rolling,5% (6 months),180 days
