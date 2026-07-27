@@ -22,10 +22,11 @@ mindmap
       ["anomaly_detector.py (异常检测UI)"]
       ["risk_backend_cron.py (后台报警脚本)"]
     ["💾 Data Sources (数据源)"]
-      ["deposit.csv (交易流水)"]
-      ["psp_costs.csv (成本结构)"]
-      ["psp_fees.csv (费率配置)"]
-      ["psp_risks.csv (风险记录)"]
+      ["data/ (数据文件夹)"]
+        ["deposit.csv (交易流水)"]
+        ["psp_costs.csv (成本结构)"]
+        ["psp_fees.csv (费率配置)"]
+        ["psp_risks.csv (风险记录)"]
     ["📄 Docs & Config (配置与文档)"]
       [".streamlit/config.toml (UI 配置)"]
       ["README.md (英文文档)"]
@@ -104,10 +105,12 @@ Merchant_Deposit/
 ├── anomaly_detector.py              # Anomaly UI rendering logic (Mocked for SQL)
 ├── risk_backend_cron.py             # Background task for Slack alerts (Mocked for SQL)
 │
-├── deposit.csv                      # Transaction data source
-├── psp_costs.csv                    # PSP fee structures
-├── psp_fees.csv                     # Fee mapping
-└── psp_risks.csv                    # Dynamic risk records
+├── data/                            # Data storage folder
+│   ├── deposit.csv                  # Transaction data source
+│   ├── psp_costs.csv                # PSP fee structures
+│   ├── psp_fees.csv                 # Fee mapping
+│   └── psp_risks.csv                # Dynamic risk records
+
 
 🚀 Installation & Usage
 

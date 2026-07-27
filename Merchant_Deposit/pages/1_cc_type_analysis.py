@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
+import os
 
 # ==========================================
 # 1. 页面基本设置
@@ -35,8 +36,11 @@ div[data-baseweb="select"]:has(input[aria-label="PSPs"]) {
 # ==========================================
 @st.cache_data
 def load_data():
-    # 假设数据文件名为 deposit.csv，放在同一目录下
-    df = pd.read_csv('deposit.csv')
+
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    parent_dir = os.path.dirname(current_dir)
+    csv_path = os.path.join(parent_dir, 'data', 'deposit.csv')
+    df = pd.read_csv(csv_path, encoding='utf-8-sig')
     
     # 将 Date 转换为 datetime 格式
     # 如果遇到日期格式不匹配报错，请调整 format 参数，例如 format='%d/%m/%Y'

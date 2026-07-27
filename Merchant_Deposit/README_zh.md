@@ -72,10 +72,12 @@ Merchant_Deposit/
 ├── anomaly_detector.py              # 异常 UI 渲染逻辑 (目前为SQL预留了模拟接口)
 ├── risk_backend_cron.py             # 负责推送 Slack 警报的后台任务 (目前为SQL预留了模拟接口)
 │
-├── deposit.csv                      # 交易数据源
-├── psp_costs.csv                    # PSP 费率结构
-├── psp_fees.csv                     # 费率映射表
-└── psp_risks.csv                    # 动态风险记录数据源
+├── data/                            # 数据存储文件夹
+│   ├── deposit.csv                  # 交易数据源
+│   ├── psp_costs.csv                # PSP 费率结构
+│   ├── psp_fees.csv                 # 费率映射表
+│   └── psp_risks.csv                # 动态风险记录数据源
+
 
 🚀 安装与使用指南
 1. 安装环境依赖：

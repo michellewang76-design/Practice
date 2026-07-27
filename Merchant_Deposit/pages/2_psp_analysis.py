@@ -35,7 +35,12 @@ span[data-baseweb="tag"] { background-color: #808080 !important; }
 # ==========================================
 @st.cache_data
 def load_data():
-    df = pd.read_csv('deposit.csv', encoding='utf-8-sig')
+    
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    parent_dir = os.path.dirname(current_dir)
+    csv_path = os.path.join(parent_dir, 'data', 'deposit.csv')
+    df = pd.read_csv(csv_path, encoding='utf-8-sig')
+
     df.columns = df.columns.str.strip()
     
     string_columns = ['PspName', 'CardType', 'Status', 'Group']

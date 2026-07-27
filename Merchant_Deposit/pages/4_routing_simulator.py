@@ -7,7 +7,7 @@ import pandas as pd
 
 st.set_page_config(page_title="routing", page_icon="🔀", layout="wide")
 
-# 🌟 2. 在页面最顶端渲染导航栏
+# 2. 在页面最顶端渲染导航栏
 from navbar import create_top_nav
 create_top_nav()
 

@@ -96,7 +96,11 @@ st.markdown("### 🚨 Active Risk & Incident Management")
 st.markdown("Track ongoing operational issues, compliance risks, and settlement delays.")
 
 # 1. 数据加载与初始化
-RISK_FILE_PATH = 'psp_risks.csv'
+
+# 获取当前脚本所在目录 (Merchant_Deposit)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+# 拼接 data 文件夹内的路径
+RISK_FILE_PATH = os.path.join(current_dir, 'data', 'psp_risks.csv')
 
 def load_or_create_risk_data():
     if os.path.exists(RISK_FILE_PATH):
@@ -174,7 +178,9 @@ st.markdown("---")
 # ==========================================
 # 2. 数据加载与初始化
 # ==========================================
-COST_FILE_PATH = 'psp_costs.csv'
+
+# current_dir 在上面已经定义过了，这里直接复用即可
+COST_FILE_PATH = os.path.join(current_dir, 'data', 'psp_costs.csv')
 
 def load_or_create_cost_data():
     # 如果文件已存在，直接读取
